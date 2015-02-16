@@ -10,6 +10,7 @@ public class Name {
 		System.out.println("whan");
 		System.out.println("oliy");
 		System.out.println("AAAAA");
+		System.out.println("BBBBB");
 
 	}
 
