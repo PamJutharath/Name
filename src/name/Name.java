@@ -7,6 +7,7 @@ public class Name {
 		System.out.println("ying");
 		System.out.println("jin");
 		System.out.println("poo");
+		System.out.println("whan");
 
 	}
 
