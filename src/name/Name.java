@@ -8,6 +8,7 @@ public class Name {
 		System.out.println("jin");
 		System.out.println("poo");
 		System.out.println("whan");
+		System.out.println("oliy");
 
 	}
 
