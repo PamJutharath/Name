@@ -6,6 +6,7 @@ public class Name {
 		System.out.println("pam");
 		System.out.println("ying");
 		System.out.println("jin");
+		System.out.println("poo");
 
 	}
 
